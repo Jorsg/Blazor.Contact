@@ -1,0 +1,15 @@
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\bin\Debug\net5.0\Blazor.Contacts.Practic.Repositories.deps.json
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\bin\Debug\net5.0\Blazor.Contacts.Practic.Repositories.dll
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\bin\Debug\net5.0\Blazor.Contacts.Practic.Repositories.pdb
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\bin\Debug\net5.0\Blazor.Contacts.Practic.Shared.dll
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\bin\Debug\net5.0\Blazor.Contacts.Practic.Shared.pdb
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.csproj.AssemblyReference.cache
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.AssemblyInfoInputs.cache
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.AssemblyInfo.cs
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.csproj.CoreCompileInputs.cache
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.csproj.CopyComplete
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.dll
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\refint\Blazor.Contacts.Practic.Repositories.dll
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\Blazor.Contacts.Practic.Repositories.pdb
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contact.Wasm.Repositories\obj\Debug\net5.0\ref\Blazor.Contacts.Practic.Repositories.dll

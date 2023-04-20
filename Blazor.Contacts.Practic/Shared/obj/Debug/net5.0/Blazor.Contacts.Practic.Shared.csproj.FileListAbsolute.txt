@@ -1,0 +1,12 @@
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\bin\Debug\net5.0\Blazor.Contacts.Practic.Shared.deps.json
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\bin\Debug\net5.0\Blazor.Contacts.Practic.Shared.dll
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\bin\Debug\net5.0\Blazor.Contacts.Practic.Shared.pdb
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\Blazor.Contacts.Practic.Shared.csproj.AssemblyReference.cache
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\Blazor.Contacts.Practic.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\Blazor.Contacts.Practic.Shared.AssemblyInfoInputs.cache
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\Blazor.Contacts.Practic.Shared.AssemblyInfo.cs
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\Blazor.Contacts.Practic.Shared.csproj.CoreCompileInputs.cache
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\Blazor.Contacts.Practic.Shared.dll
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\refint\Blazor.Contacts.Practic.Shared.dll
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\Blazor.Contacts.Practic.Shared.pdb
+D:\Repos\repos\Blazor.Contacts.Practic\Blazor.Contacts.Practic\Shared\obj\Debug\net5.0\ref\Blazor.Contacts.Practic.Shared.dll

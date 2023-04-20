@@ -1,0 +1,22 @@
+﻿@page "/"
+
+@inject IContactService ContactService
+@inject NavigationManager NavigationManager
+
+@code {
+	IEnumerable<Practic.Shared.Contact.Contacts> contacts;
+	public string Message { get; set; }
+	protected override async Task OnInitializedAsync()
+	{
+		try
+		{
+			contacts = await ContactService.GetAll();
+		}
+		catch (Exception e)
+		{
+
+			Message = "Error.." + e.Message;
+		}
+	}
+
+}
